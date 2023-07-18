@@ -1,5 +1,9 @@
 ## DBL Eventos 
 
+![Screenshot_1](https://github.com/diegolopess/DBL_sistema-de-eventos/assets/52384554/23f64314-9ddf-4c67-877f-37c98c59de3e)
+
+
+
 ## Descrição
 O projeto é um sistema de eventos construído usando o framework Laravel x8. Ele permite que os usuários se cadastrem, façam login, criem eventos, participem de eventos existentes, editem eventos e excluam eventos.
 
