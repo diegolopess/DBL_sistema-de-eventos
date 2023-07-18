@@ -1,6 +1,21 @@
 ## DBL Eventos 
 
-![Screenshot_1](https://github.com/diegolopess/DBL_sistema-de-eventos/assets/52384554/23f64314-9ddf-4c67-877f-37c98c59de3e)
+
+Alguns screenshot do sistema:
+
+![Screenshot_4](https://github.com/diegolopess/DBL_sistema-de-eventos/assets/52384554/207f086d-812e-433f-a668-a7ef020d52cb)
+
+## Criar evento
+
+![Screenshot_2](https://github.com/diegolopess/DBL_sistema-de-eventos/assets/52384554/f80dd1be-f19b-4aa1-b9bd-7b168f193e25)
+
+## Visualizar evento
+
+![Screenshot_3](https://github.com/diegolopess/DBL_sistema-de-eventos/assets/52384554/eb5fd96f-e00b-4612-90c7-fb7d0c9729d1)
+
+## Eventos do usuário
+
+![Screenshot_5](https://github.com/diegolopess/DBL_sistema-de-eventos/assets/52384554/f92b77c7-dc21-430a-aa71-901fd0133770)
 
 
 
